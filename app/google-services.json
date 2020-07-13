@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "178234234175",
+    "firebase_url": "https://plural-sight-17694.firebaseio.com",
+    "project_id": "plural-sight-17694",
+    "storage_bucket": "plural-sight-17694.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178234234175:android:28d8e5a27feef252052f8a",
+        "android_client_info": {
+          "package_name": "com.example.travelmantics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178234234175-vlu6a6162vg7nvhoc9mh8a7n4ifjhb34.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.travelmantics",
+            "certificate_hash": "0a9741fcce47d6ac27f47d88ed7e2b4869db9452"
+          }
+        },
+        {
+          "client_id": "178234234175-0lgbtcbn60ttnjplmlgiq7g7ojakop6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmHmzdftmAVScVoBDmybAWVLXKEhRZ9zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178234234175-0lgbtcbn60ttnjplmlgiq7g7ojakop6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
